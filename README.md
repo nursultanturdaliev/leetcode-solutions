@@ -15,3 +15,5 @@
 237 Delete Node in a Linked List - https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 350 Intersection of Two Arrays II - https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+1678 Goal Parser Interpretation - https://leetcode.com/problems/goal-parser-interpretation/
