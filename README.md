@@ -20,4 +20,6 @@
 
 1678 Goal Parser Interpretation - https://leetcode.com/problems/goal-parser-interpretation/
 
+1816 Truncate Sentence - https://leetcode.com/problems/truncate-sentence/
+
 1844 Replace All Digits with Characters - https://leetcode.com/problems/replace-all-digits-with-characters/
