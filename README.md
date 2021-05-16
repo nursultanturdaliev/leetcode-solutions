@@ -19,3 +19,5 @@
 1221 Split a String in Balanced Strings - https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 1678 Goal Parser Interpretation - https://leetcode.com/problems/goal-parser-interpretation/
+
+1844 Replace All Digits with Characters - https://leetcode.com/problems/replace-all-digits-with-characters/
